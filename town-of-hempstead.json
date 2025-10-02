@@ -1,0 +1,484 @@
+{
+  "title": "Hempstead Town Site Map",
+  "description": "Complete navigation structure for the Town of Hempstead, NY municipal website",
+  "categories": [
+    {
+      "category": "Government",
+      "links": [
+        {
+          "title": "Government Home",
+          "url": "https://hempsteadny.gov/26/Government"
+        },
+        {
+          "title": "Town Board",
+          "url": "https://hempsteadny.gov/28/Town-Board",
+          "subcategory": "Elected Officials",
+          "children": [
+            {"title": "Supervisor", "url": "https://hempsteadny.gov/38/Supervisor"},
+            {"title": "Town Board Members", "url": "https://hempsteadny.gov/29/Town-Board-Members"},
+            {"title": "Minutes & Agendas", "url": "https://hempsteadny.gov/30/Minutes-Agendas"},
+            {"title": "Laws & Local Laws", "url": "https://hempsteadny.gov/32/Laws-Local-Laws"},
+            {"title": "Ordinances", "url": "https://hempsteadny.gov/33/Ordinances"},
+            {"title": "Resolutions", "url": "https://hempsteadny.gov/34/Resolutions"},
+            {"title": "Special Meeting Agendas", "url": "https://hempsteadny.gov/519/Special-Meeting-Agendas"},
+            {"title": "Special Meeting Minutes", "url": "https://hempsteadny.gov/520/Special-Meeting-Minutes"},
+            {"title": "Work Session Agendas", "url": "https://hempsteadny.gov/515/Work-Session-Agendas"},
+            {"title": "Work Session Minutes", "url": "https://hempsteadny.gov/516/Work-Session-Minutes"}
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Elected Officials",
+      "links": [
+        {
+          "title": "Supervisor", 
+          "url": "https://hempsteadny.gov/38/Supervisor",
+          "children": [
+            {"title": "Biography", "url": "https://hempsteadny.gov/547/Biography"},
+            {"title": "State of the Town Address", "url": "https://hempsteadny.gov/39/State-of-the-Town-Address"},
+            {"title": "Press Releases", "url": "https://hempsteadny.gov/548/Press-Releases"},
+            {"title": "Budget Message", "url": "https://hempsteadny.gov/521/Budget-Message"},
+            {"title": "Contact the Supervisor", "url": "https://hempsteadny.gov/549/Contact-the-Supervisor"}
+          ]
+        },
+        {
+          "title": "Town Board Members",
+          "url": "https://hempsteadny.gov/29/Town-Board-Members"
+        }
+      ]
+    },
+    {
+      "category": "Departments",
+      "links": [
+        {
+          "title": "Animal Shelter",
+          "url": "https://hempsteadny.gov/179/Animal-Shelter",
+          "children": [
+            {"title": "About the Hempstead Animal Shelter", "url": "https://hempsteadny.gov/846/About-the-Hempstead-Animal-Shelter"},
+            {"title": "Adoption Policies", "url": "https://hempsteadny.gov/849/Adoption-Policies"},
+            {"title": "Volunteer Program", "url": "https://hempsteadny.gov/850/Volunteer-Program"},
+            {"title": "Assistance Program", "url": "https://hempsteadny.gov/851/Assistance-Program"},
+            {"title": "Lost & Found", "url": "https://hempsteadny.gov/852/Lost-Found"},
+            {"title": "Wildlife", "url": "https://hempsteadny.gov/853/Wildlife"}
+          ]
+        },
+        {
+          "title": "Assessor's Department",
+          "url": "https://hempsteadny.gov/180/Assessors-Department",
+          "children": [
+            {"title": "Assessment Exemptions", "url": "https://hempsteadny.gov/495/Assessment-Exemptions"},
+            {"title": "Assessment Information", "url": "https://hempsteadny.gov/494/Assessment-Information"},
+            {"title": "Assessment Review Board", "url": "https://hempsteadny.gov/496/Assessment-Review-Board"},
+            {"title": "Contact the Assessor", "url": "https://hempsteadny.gov/497/Contact-the-Assessor"},
+            {"title": "Exemption Renewal Form", "url": "https://hempsteadny.gov/498/Exemption-Renewal-Form"},
+            {"title": "Frequently Asked Questions", "url": "https://hempsteadny.gov/499/Frequently-Asked-Questions"},
+            {"title": "Property Information Search", "url": "https://hempsteadny.gov/500/Property-Information-Search"},
+            {"title": "Tax Information", "url": "https://hempsteadny.gov/502/Tax-Information"}
+          ]
+        },
+        {
+          "title": "Building Department",
+          "url": "https://hempsteadny.gov/116/Building-Department",
+          "children": [
+            {"title": "About", "url": "https://hempsteadny.gov/117/About"},
+            {"title": "Building Permits", "url": "https://hempsteadny.gov/118/Building-Permits"},
+            {"title": "Certificates of Occupancy", "url": "https://hempsteadny.gov/119/Certificates-of-Occupancy"},
+            {"title": "Commercial Building Applications", "url": "https://hempsteadny.gov/120/Commercial-Building-Applications"},
+            {"title": "Inspections", "url": "https://hempsteadny.gov/121/Inspections"},
+            {"title": "Pool Permits", "url": "https://hempsteadny.gov/122/Pool-Permits"},
+            {"title": "Residential Building Applications", "url": "https://hempsteadny.gov/123/Residential-Building-Applications"},
+            {"title": "Swimming Pool Applications", "url": "https://hempsteadny.gov/124/Swimming-Pool-Applications"}
+          ]
+        },
+        {
+          "title": "Civil Service Department",
+          "url": "https://hempsteadny.gov/125/Civil-Service-Department",
+          "children": [
+            {"title": "Open Competitive Examinations", "url": "https://hempsteadny.gov/551/Open-Competitive-Examinations"},
+            {"title": "Provisional Appointments", "url": "https://hempsteadny.gov/552/Provisional-Appointments"},
+            {"title": "Training Compliance", "url": "https://hempsteadny.gov/129/Training-Compliance"},
+            {"title": "Current Job Opportunities", "url": "https://hempsteadny.gov/553/Current-Job-Opportunities"}
+          ]
+        },
+        {
+          "title": "Comptroller's Department",
+          "url": "https://hempsteadny.gov/130/Comptrollers-Department"
+        },
+        {
+          "title": "Conservation & Waterways Department",
+          "url": "https://hempsteadny.gov/159/Conservation-Waterways",
+          "children": [
+            {"title": "About Us", "url": "https://hempsteadny.gov/160/About-Us"},
+            {"title": "Boating Information", "url": "https://hempsteadny.gov/161/Boating-Information"},
+            {"title": "Fishing & Clamming Information", "url": "https://hempsteadny.gov/162/Fishing-Clamming-Information"},
+            {"title": "Publications & Reports", "url": "https://hempsteadny.gov/163/Publications-Reports"},
+            {"title": "Boat Registration", "url": "https://hempsteadny.gov/164/Boat-Registration"},
+            {"title": "Marina Information", "url": "https://hempsteadny.gov/165/Marina-Information"},
+            {"title": "Water Safety", "url": "https://hempsteadny.gov/166/Water-Safety"}
+          ]
+        },
+        {
+          "title": "Emergency Services Department",
+          "url": "https://hempsteadny.gov/195/Emergency-Services",
+          "children": [
+            {"title": "Emergency Operations", "url": "https://hempsteadny.gov/196/Emergency-Operations"},
+            {"title": "Office of Emergency Management", "url": "https://hempsteadny.gov/197/Office-of-Emergency-Management"}
+          ]
+        },
+        {
+          "title": "Highway Department",
+          "url": "https://hempsteadny.gov/207/Highway-Department",
+          "children": [
+            {"title": "Call Before You Dig", "url": "https://hempsteadny.gov/210/Call-Before-You-Dig"},
+            {"title": "Curb Cuts, Aprons Rules & Regulations", "url": "https://hempsteadny.gov/208/Curb-Cuts-Aprons-Rules-Regulations"},
+            {"title": "Permits & Forms", "url": "https://hempsteadny.gov/209/Permits-Forms"},
+            {"title": "Road Opening & Road Restoration", "url": "https://hempsteadny.gov/211/Road-Opening-Road-Restoration"},
+            {"title": "Sidewalk Repair FAQ", "url": "https://hempsteadny.gov/214/Sidewalk-Repair-FAQ"},
+            {"title": "Street Sweeping", "url": "https://hempsteadny.gov/215/Street-Sweeping"}
+          ]
+        },
+        {
+          "title": "Housing Authority",
+          "url": "https://hempsteadny.gov/251/Housing-Authority",
+          "children": [
+            {"title": "Golden Age Housing", "url": "https://hempsteadny.gov/253/Golden-Age-Housing"},
+            {"title": "Rental Apartments", "url": "https://hempsteadny.gov/256/Rental-Apartments"}
+          ]
+        },
+        {
+          "title": "Parks & Recreation",
+          "url": "https://hempsteadny.gov/167/Parks-Recreation",
+          "children": [
+            {"title": "About Us", "url": "https://hempsteadny.gov/168/About-Us"},
+            {"title": "Facilities", "url": "https://hempsteadny.gov/169/Facilities"},
+            {"title": "Adult Programs", "url": "https://hempsteadny.gov/170/Adult-Programs"},
+            {"title": "Youth Programs", "url": "https://hempsteadny.gov/171/Youth-Programs"},
+            {"title": "Events", "url": "https://hempsteadny.gov/172/Events"}
+          ]
+        },
+        {
+          "title": "Planning & Economic Development",
+          "url": "https://hempsteadny.gov/181/Planning-Economic-Development",
+          "children": [
+            {"title": "Baldwin Downtown Revitalization Initiative", "url": "https://hempsteadny.gov/182/BaldwinDowntown-Revitalization-Initiativ"},
+            {"title": "Baldwin Revitalization Project", "url": "https://hempsteadny.gov/185/Baldwin-Revitalization-Project"},
+            {"title": "Community Development Block Grants", "url": "https://hempsteadny.gov/188/Community-Development-Block-Grants"},
+            {"title": "Industrial Development Agency", "url": "https://hempsteadny.gov/205/Industrial-Development-Agency"},
+            {"title": "Local Development Corporation", "url": "https://hempsteadny.gov/206/Local-Development-Corporation"}
+          ]
+        },
+        {
+          "title": "Public Safety Department",
+          "url": "https://hempsteadny.gov/216/Public-Safety-Department",
+          "children": [
+            {"title": "Bicycle Safety", "url": "https://hempsteadny.gov/217/Bicycle-Safety"},
+            {"title": "Child Car Seat Safety Program", "url": "https://hempsteadny.gov/218/Child-Car-Seat-Safety-Program"},
+            {"title": "Emergency Services", "url": "https://hempsteadny.gov/848/Emergency-Services"},
+            {"title": "Hurricane Safety", "url": "https://hempsteadny.gov/219/Hurricane-Safety"},
+            {"title": "Winter Safety", "url": "https://hempsteadny.gov/976/Winter-Safety"},
+            {"title": "Other Brochures", "url": "https://hempsteadny.gov/222/Other-Brochures"}
+          ]
+        },
+        {
+          "title": "Receiver of Taxes",
+          "url": "https://hempsteadny.gov/368/Receiver-of-Taxes",
+          "children": [
+            {"title": "Tax Information", "url": "https://hempsteadny.gov/428/Tax-Information"},
+            {"title": "Tax Payment Schedule", "url": "https://hempsteadny.gov/381/Tax-Payment-Schedule"},
+            {"title": "View & Pay Tax Bills Online", "url": "https://hempsteadny.gov/435/View-Pay-Tax-Bills-Online"},
+            {"title": "Tax Exemptions", "url": "https://hempsteadny.gov/385/Tax-Exemptions"},
+            {"title": "Tax Forms", "url": "https://hempsteadny.gov/408/Tax-Forms"}
+          ]
+        },
+        {
+          "title": "Sanitation Department",
+          "url": "https://hempsteadny.gov/223/Sanitation-Department",
+          "children": [
+            {"title": "Collection Information", "url": "https://hempsteadny.gov/232/Collection-Information"},
+            {"title": "E-Cycling", "url": "https://hempsteadny.gov/225/E-Cycling"},
+            {"title": "Holiday Collection Schedule", "url": "https://hempsteadny.gov/226/Holiday-Collection-Schedule"},
+            {"title": "Recycling Information", "url": "https://hempsteadny.gov/228/Recycling-Information"},
+            {"title": "Sanitation Districts", "url": "https://hempsteadny.gov/229/Sanitation-Districts"},
+            {"title": "Shredding Program", "url": "https://hempsteadny.gov/230/Shredding-Program"}
+          ]
+        },
+        {
+          "title": "Senior Enrichment",
+          "url": "https://hempsteadny.gov/562/Senior-Enrichment",
+          "children": [
+            {"title": "Financial & Employment Assistance", "url": "https://hempsteadny.gov/566/Financial-Employment-Assistance"},
+            {"title": "Senior Centers", "url": "https://hempsteadny.gov/570/Senior-Centers"},
+            {"title": "Senior Services", "url": "https://hempsteadny.gov/571/Senior-Services"},
+            {"title": "Special Populations", "url": "https://hempsteadny.gov/572/Special-Populations"}
+          ]
+        },
+        {
+          "title": "Tourism",
+          "url": "https://hempsteadny.gov/482/Tourism",
+          "children": [
+            {"title": "Beaches", "url": "https://hempsteadny.gov/526/Beaches"},
+            {"title": "Boating", "url": "https://hempsteadny.gov/527/Boating"},
+            {"title": "Calendar of Events", "url": "https://hempsteadny.gov/531/Calendar-of-Events"},
+            {"title": "Fishing", "url": "https://hempsteadny.gov/791/Fishing"},
+            {"title": "Golf", "url": "https://hempsteadny.gov/575/Golf"},
+            {"title": "Hotels", "url": "https://hempsteadny.gov/583/Hotels"},
+            {"title": "Museums", "url": "https://hempsteadny.gov/585/Museums"}
+          ]
+        },
+        {
+          "title": "Town Clerk",
+          "url": "https://hempsteadny.gov/173/Town-Clerk",
+          "children": [
+            {"title": "Marriage", "url": "https://hempsteadny.gov/174/Marriage"},
+            {"title": "Passport Services", "url": "https://hempsteadny.gov/175/Passport-Services"},
+            {"title": "Registrar", "url": "https://hempsteadny.gov/176/Registrar"},
+            {"title": "Licenses & Permits", "url": "https://hempsteadny.gov/177/Licenses-Permits"},
+            {"title": "Archives", "url": "https://hempsteadny.gov/178/Archives"},
+            {"title": "About", "url": "https://hempsteadny.gov/483/About"}
+          ]
+        },
+        {
+          "title": "Traffic Control & Street Lighting Divisions",
+          "url": "https://hempsteadny.gov/252/Traffic-Control-Street-Lighting-Division"
+        },
+        {
+          "title": "Veterans Services",
+          "url": "https://hempsteadny.gov/254/Veterans-Services"
+        },
+        {
+          "title": "Water Department",
+          "url": "https://hempsteadny.gov/258/Water-Department",
+          "children": [
+            {"title": "Applications", "url": "https://hempsteadny.gov/259/Applications"},
+            {"title": "Drinking Water Quality Reports", "url": "https://hempsteadny.gov/260/Drinking-Water-Quality-Reports"},
+            {"title": "Emerging Contaminant Information (ECI)", "url": "https://hempsteadny.gov/263/Emerging-Contaminant-Information-ECI"},
+            {"title": "Service Line Inventory", "url": "https://hempsteadny.gov/1095/Service-Line-Inventory"}
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Business",
+      "links": [
+        {
+          "title": "Business Home",
+          "url": "https://hempsteadny.gov/35/Business"
+        },
+        {
+          "title": "Active Bid Postings",
+          "url": "https://hempsteadny.gov/833/Active-Bid-Postings"
+        },
+        {
+          "title": "Bid Information",
+          "url": "https://hempsteadny.gov/775/Bid-Information"
+        },
+        {
+          "title": "Business Directory",
+          "url": "https://hempsteadny.gov/141/Business-Directory"
+        },
+        {
+          "title": "Contract Search",
+          "url": "https://hempsteadny.gov/577/Contract-Search"
+        },
+        {
+          "title": "Vape Restrictions",
+          "url": "https://hempsteadny.gov/653/Vape-Restrictions"
+        }
+      ]
+    },
+    {
+      "category": "Residents",
+      "links": [
+        {
+          "title": "Residents Home",
+          "url": "https://hempsteadny.gov/9/Residents"
+        },
+        {
+          "title": "Buildings",
+          "url": "https://hempsteadny.gov/578/Buildings",
+          "children": [
+            {"title": "Avoiding Foreclosure", "url": "https://hempsteadny.gov/579/Avoiding-Foreclosure"},
+            {"title": "Landmarks Preservation", "url": "https://hempsteadny.gov/580/Landmarks-Preservation"},
+            {"title": "Mother-Daughter Use", "url": "https://hempsteadny.gov/623/Mother-Daughter-Use"},
+            {"title": "Online Permit Center", "url": "https://hempsteadny.gov/622/Online-Permit-Center"},
+            {"title": "Rental Property Registration & Renewal", "url": "https://hempsteadny.gov/624/Rental-Property-Registration-Renewal"},
+            {"title": "Vacant Property Registry", "url": "https://hempsteadny.gov/625/Vacant-Property-Registry"}
+          ]
+        },
+        {
+          "title": "COVID-19 Resources",
+          "url": "https://hempsteadny.gov/556/COVID-19-Resources"
+        },
+        {
+          "title": "Do Not Knock Program",
+          "url": "https://hempsteadny.gov/638/Do-Not-Knock-Program"
+        },
+        {
+          "title": "FAQs",
+          "url": "https://hempsteadny.gov/640/FAQs"
+        },
+        {
+          "title": "Food Distribution Information",
+          "url": "https://hempsteadny.gov/557/Food-Distribution-Information"
+        },
+        {
+          "title": "Helpline",
+          "url": "https://hempsteadny.gov/139/Helpline"
+        },
+        {
+          "title": "Mental Health, Substance Abuse and Wellness Guide",
+          "url": "https://hempsteadny.gov/889/Mental-Health-Substance-Abuse-and-Wellne"
+        },
+        {
+          "title": "Online Parking Permits",
+          "url": "https://hempsteadny.gov/637/Online-Parking-Permits"
+        },
+        {
+          "title": "Online Security Guide",
+          "url": "https://hempsteadny.gov/626/Online-Security-Guide"
+        },
+        {
+          "title": "Online Services",
+          "url": "https://hempsteadny.gov/776/Online-Services"
+        },
+        {
+          "title": "Parks & Facilities",
+          "url": "https://hempsteadny.gov/138/Parks-Facilities"
+        },
+        {
+          "title": "Special Districts",
+          "url": "https://hempsteadny.gov/236/Special-Districts",
+          "children": [
+            {"title": "Fire Districts", "url": "https://hempsteadny.gov/237/Fire-Districts"},
+            {"title": "Public Libraries", "url": "https://hempsteadny.gov/238/Public-Libraries"},
+            {"title": "Sanitary Districts", "url": "https://hempsteadny.gov/239/Sanitary-Districts"},
+            {"title": "Sewer Districts", "url": "https://hempsteadny.gov/240/Sewer-Districts"},
+            {"title": "Water Districts", "url": "https://hempsteadny.gov/241/Water-Districts"}
+          ]
+        },
+        {
+          "title": "Tourism",
+          "url": "https://hempsteadny.gov/790/Tourism"
+        },
+        {
+          "title": "Winter Safety",
+          "url": "https://hempsteadny.gov/977/Winter-Safety"
+        }
+      ]
+    },
+    {
+      "category": "Quick Actions",
+      "links": [
+        {
+          "title": "Town Meetings",
+          "url": "https://hempsteadny.gov/522/Meetings-Hearings"
+        },
+        {
+          "title": "Report A Concern",
+          "url": "https://hempsteadny.gov/FormCenter/Constituent-Affairs-15/Helpline-75"
+        },
+        {
+          "title": "Online Services",
+          "url": "https://hempsteadny.gov/776/Online-Services"
+        },
+        {
+          "title": "Alert Sign Up",
+          "url": "https://hempsteadny.gov/list.aspx"
+        }
+      ]
+    },
+    {
+      "category": "Quick Links",
+      "links": [
+        {
+          "title": "Animal Shelter",
+          "url": "https://hempsteadny.gov/179/Animal-Shelter"
+        },
+        {
+          "title": "Conservation & Waterways",
+          "url": "https://hempsteadny.gov/159/Conservation-Waterways"
+        },
+        {
+          "title": "Emergency Services",
+          "url": "https://hempsteadny.gov/195/Emergency-Services"
+        },
+        {
+          "title": "Receiver of Taxes",
+          "url": "https://hempsteadny.gov/368/Receiver-of-Taxes"
+        },
+        {
+          "title": "Town Financials",
+          "url": "https://hempsteadny.gov/537/Town-Financials"
+        }
+      ]
+    },
+    {
+      "category": "Helpful Links",
+      "links": [
+        {
+          "title": "Home",
+          "url": "https://hempsteadny.gov/"
+        },
+        {
+          "title": "Site Map",
+          "url": "https://hempsteadny.gov/sitemap"
+        },
+        {
+          "title": "Staff Directory",
+          "url": "https://hempsteadny.gov/directory.aspx"
+        },
+        {
+          "title": "Resource Directory",
+          "url": "https://hempsteadny.gov/businessdirectoryii.aspx"
+        },
+        {
+          "title": "Accessibility",
+          "url": "https://hempsteadny.gov/accessibility"
+        },
+        {
+          "title": "Privacy Policy",
+          "url": "https://hempsteadny.gov/privacy"
+        },
+        {
+          "title": "Copyright Notices",
+          "url": "https://hempsteadny.gov/copyright"
+        }
+      ]
+    },
+    {
+      "category": "Social Media & Contact",
+      "links": [
+        {
+          "title": "Facebook",
+          "url": "https://hempsteadny.gov/facebook"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://hempsteadny.gov/twitter"
+        },
+        {
+          "title": "Instagram",
+          "url": "https://hempsteadny.gov/instagram"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://hempsteadny.gov/youtube"
+        },
+        {
+          "title": "Contact our Helpline",
+          "url": "https://hempsteadny.gov/FormCenter/Town-Clerk-9/Helpline-62"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_links": 400,
+    "site_type": "Municipal Government",
+    "platform": "CivicEngage",
+    "organization": "Town of Hempstead, NY",
+    "base_url": "https://www.toh.li",
+    "extraction_date": "2024",
+    "note": "This site map represents the complete hierarchical navigation structure for Hempstead Town's municipal website, including all departments, services, and public resources."
+  }
+}
