@@ -1,0 +1,96 @@
+[
+  {
+    "category": "Schools",
+    "links": [
+      { "title": "School #6 Early Learning Center", "url": "https://school6.oceansideschools.org" },
+      { "title": "School #2", "url": "https://school2.oceansideschools.org" },
+      { "title": "School #3", "url": "https://school3.oceansideschools.org" },
+      { "title": "School #4", "url": "https://school4.oceansideschools.org" },
+      { "title": "School #5", "url": "https://school5.oceansideschools.org" },
+      { "title": "School #8", "url": "https://school8.oceansideschools.org" },
+      { "title": "School #9E", "url": "https://school9e.oceansideschools.org" },
+      { "title": "Oceanside Middle School #9M", "url": "https://school9m.oceansideschools.org" },
+      { "title": "Oceanside High School #7", "url": "https://school7.oceansideschools.org" },
+      { "title": "OHS Castleton", "url": "https://castleton.oceansideschools.org" },
+      { "title": "Adult Education: New Horizons", "url": "/schools/adult-education-new-horizons" }
+    ]
+  },
+  {
+    "category": "District",
+    "links": [
+      { "title": "About Us", "url": "/district/about-us" },
+      { "title": "Buildings and Grounds", "url": "/district/buildings-and-grounds" },
+      { "title": "Business Office", "url": "/district/business-office" },
+      { "title": "Curriculum, Instruction & Technology", "url": "/district/curriculum-instruction" },
+      { "title": "Goals & Objectives", "url": "/district/goals-objectives" },
+      { "title": "Human Resources", "url": "/district/human-resources" },
+      { "title": "Media, Fine & Performing Arts", "url": "/district/fine-and-performing-arts" },
+      { "title": "News", "url": "/district/news" },
+      { "title": "Policies, Procedures & Plans", "url": "/policies-procedures-plans/policies-procedures-plans" },
+      { "title": "Special Education", "url": "/district/special-education" },
+      { "title": "Staff Directory", "url": "/district/staff-directory" },
+      { "title": "Superintendent's Office", "url": "/district/superintendents-office" },
+      { "title": "Theatre Guild of Oceanside", "url": "/district/theatre-guild-of-oceanside" },
+      { "title": "Transportation", "url": "/district/transportation" }
+    ]
+  },
+  {
+    "category": "Board of Education",
+    "links": [
+      { "title": "About Our Board", "url": "/board-of-education/about-our-board" },
+      { "title": "Guide to Board of Education Meetings", "url": "/board-of-education/new-page" },
+      { "title": "Meetings", "url": "/board-of-education/meetings" }
+    ]
+  },
+  {
+    "category": "Parents & Students",
+    "links": [
+      { "title": "Calendar", "url": "/parents-students/calendar" },
+      { "title": "Code of Conduct", "url": "/parents-students/code-of-conduct" },
+      { "title": "Covid-19 Information", "url": "/parents-students/covid-19-hub" },
+      { "title": "Clubs, Activities & DOCA", "url": "/parents-students/clubs-activities-doca" },
+      { "title": "Data Privacy", "url": "https://sites.google.com/oceansideschools.org/osd-data-privacy?usp=sharing" },
+      { "title": "Food Service & Menus", "url": "/parents-students/food-service-menus" },
+      { "title": "Foster Care & Homeless Liaison", "url": "/parents-students/homeless-foster-care-liaison" },
+      { "title": "Inclement Weather Policy", "url": "/parents-students/inclement-weather-policy" },
+      { "title": "Library Websites", "url": "/parents-students/online-resources-library-websites" },
+      { "title": "Parent Portal", "url": "/parent-portal" },
+      { "title": "Parent Square", "url": "/parents-students/parent-square" },
+      { "title": "Parent University", "url": "/parents-students/parent-university" },
+      { "title": "Podcasts from OSD Parent University", "url": "/parents-students/podcasts-from-osd-parent-university" },
+      { "title": "Policies, Procedures, & Plans", "url": "/district/policies-plans-procedures" },
+      { "title": "PTA", "url": "/parents-students/pta" },
+      { "title": "Project Extra", "url": "/parents-students/project-extra" },
+      { "title": "Register for School", "url": "/parents-students/register-for-school" },
+      { "title": "Right to Know - Professional Qualifications", "url": "/policies-procedures-plans/policies-procedures-plans/parent-right-to-know-professional-qualifications" },
+      { "title": "Safety, Health & Wellness", "url": "/parents-students/safety-health-wellness" },
+      { "title": "Tech Support", "url": "https://support.oceansideschools.org/hc/en-us" },
+      { "title": "Tutoring by Honor Society", "url": "https://docs.google.com/forms/d/e/1FAIpQLScuTm8ZqcyBr7AeIwTN3cdw3xhhLiv7PYtT4bherpnwLqVWWQ/viewform" },
+      { "title": "Voting Information", "url": "/parents-students/voting-information" }
+    ]
+  },
+  {
+    "category": "Staff Resources",
+    "links": [
+      { "title": "Administrative Internship Application", "url": "/staff-resources/administrative-internship-application" },
+      { "title": "Class Link", "url": "https://launchpad.classlink.com/oceanside" },
+      { "title": "Data Privacy", "url": "https://sites.google.com/oceansideschools.org/osd-data-privacy?usp=sharing" },
+      { "title": "Employee Benefits", "url": "/district/human-resources" },
+      { "title": "Frontline (Aesop, IEP Direct & My Learning PLan)", "url": "https://login.frontlineeducation.com/login?signin=b7f8f479802a7cc3350b5e0d8832bdfa&productId=ABSMGMT&clientId=ABSMGMT#/login" },
+      { "title": "Infinite Campus", "url": "https://sms.oceansideschools.org/campus/oceanside.jsp" },
+      { "title": "Naviance", "url": "https://id.naviance.com/" },
+      { "title": "OPLC", "url": "/staff-resources/oplc" },
+      { "title": "Student Performance System", "url": "https://www.studentperformancesystem.com/ideal/action/load/excelSetup" },
+      { "title": "TEACH", "url": "https://my.ny.gov/sreg/Login?TYPE=33554433&REALMOID=06-000e453b-35eb-1035-8bd6-80f018260006&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$PXW8ueecLCcG8mop0IMlsDfW1hXZKNnhryNW6ro9oxq8OY8ERxuxuLalbIx76%2fLE&TARGET=$SM$HTTPS%3a%2f%2feservices%2enysed%2egov%2fteach%2fteachext" },
+      { "title": "Tech Support", "url": "https://support.oceansideschools.org/hc/en-us" },
+      { "title": "Trip Finder & View Finder", "url": "/staff-resources/trip-finder" },
+      { "title": "Wizard Test Generator", "url": "https://www.wizardtm.com/Login.aspx" }
+    ]
+  },
+  {
+    "category": "Other",
+    "links": [
+      { "title": "Athletics", "url": "https://school7.oceansideschools.org/athletics" }
+    ]
+  }
+]
